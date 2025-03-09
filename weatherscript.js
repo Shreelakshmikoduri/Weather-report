@@ -1,4 +1,3 @@
-
 document.getElementById('getWeatherButton').addEventListener('click', function() {
   const city = document.getElementById('city').value;
   const loadingMessage = document.getElementById('loading');
